@@ -1,0 +1,502 @@
+[
+  {
+    "item_name": "Letter in Treasure Chest",
+    "dropby": "Treasure Chest",
+    "fame": 10,
+    "cegel": "N/A",
+    "objective": "Collect 20 Leather and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Leather",
+    "shortname": "lett1"
+  },
+  {
+    "item_name": "Adrian’s Letter",
+    "dropby": "Servant Mushroom, Flying Pig (Boss)",
+    "fame": 50,
+    "cegel": "N/A",
+    "objective": "Talk to Sarah.",
+    "quantity": "-",
+    "item_quest": "-",
+    "shortname": "adri"
+  },
+  {
+    "item_name": "Baldea’s Letter",
+    "dropby": "Skullo , (Influential) Warrior Plya",
+    "fame": 80,
+    "cegel": "N/A",
+    "objective": "Bring the letter to Lioner. You can access the Wagon Driver in Adel Monastery to warp to him.",
+    "quantity": "-",
+    "item_quest": "-",
+    "shortname": "bald"
+  },
+  {
+    "item_name": "Baby Bear’s Letter",
+    "dropby": "Baby Bear",
+    "fame": 90,
+    "cegel": 7000,
+    "objective": "Collect 20 Father’s Excuse and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Father’s Excuse",
+    "shortname": "baby"
+  },
+  {
+    "item_name": "Bear’s Letter",
+    "dropby": "Mama Bear",
+    "fame": 100,
+    "cegel": "-",
+    "objective": "Collect 20 Motherly Love and give them to the Teddy Bear",
+    "quantity": 20,
+    "item_quest": "Motherly Love",
+    "shortname": "bear"
+  },
+  {
+    "item_name": "Cats Letter",
+    "dropby": "Traveling Cat in Boots",
+    "fame": 120,
+    "cegel": 10080,
+    "objective": "Collect 30 Mark of Sage and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Mark of Sage",
+    "shortname": "cats"
+  },
+  {
+    "item_name": "Papa Bear’s Letter",
+    "dropby": "Papa Bear",
+    "fame": 120,
+    "cegel": 2240,
+    "objective": "Collect 20 Respect and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Respect",
+    "shortname": "papa"
+  },
+  {
+    "item_name": "Sacred Cranky Rooster’s Letter",
+    "dropby": "Holy Cranky Rooster",
+    "fame": 700,
+    "cegel": 120000,
+    "objective": "Collect White Spirit and give them to the Pet Trainer.",
+    "quantity": 1,
+    "item_quest": "White Spirit",
+    "shortname": "sacr"
+  },
+  {
+    "item_name": "Soul Collector’s Letter",
+    "dropby": "Soul Collector",
+    "fame": 470,
+    "cegel": 54600,
+    "objective": "Collect 20 Cold Hearts and give them to Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Cold Hearts",
+    "shortname": "soul"
+  },
+  {
+    "item_name": "Gentle Pumpkin’s Letter",
+    "dropby": "Gentle Pumpkin",
+    "fame": 490,
+    "cegel": 38220,
+    "objective": "Collect 30 Eagle Feather and give them to Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Eagle Feather",
+    "shortname": "gent"
+  },
+  {
+    "item_name": "Handrock’s Letter",
+    "dropby": "Handrock",
+    "fame": 520,
+    "cegel": 79800,
+    "objective": "Collect 30 Beautiful Petal and give them to Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Beautiful Petal",
+    "shortname": "hand"
+  },
+  {
+    "item_name": "Sphinky’s Letter",
+    "dropby": "Sphinky",
+    "fame": 550,
+    "cegel": 37520,
+    "objective": "Collect 40 Grain of Sand and give them to Pet Trainer.",
+    "quantity": 40,
+    "item_quest": "Grain of Sand",
+    "shortname": "sphi"
+  },
+  {
+    "item_name": "Crocco’s Letter",
+    "dropby": "Crocco",
+    "fame": 580,
+    "cegel": 107100,
+    "objective": "Collect 30 Golem’s Tears and give them to Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Golem’s Tears",
+    "shortname": "croc"
+  },
+  {
+    "item_name": "Chicken God’s Letter",
+    "dropby": "Chicken God",
+    "fame": 600,
+    "cegel": 134400,
+    "objective": "Collect 30 Floating Feather and give them to Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Floating Feather",
+    "shortname": "chic"
+  },
+  {
+    "item_name": "Dark Wizard’s Letter",
+    "dropby": "Dark Wizard",
+    "fame": 630,
+    "cegel": 49000,
+    "objective": "Collect 20 Warrior’s Passion and give them to Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Warrior’s Passion",
+    "shortname": "dark1"
+  },
+  {
+    "item_name": "Knight’s Letter",
+    "dropby": "Shinna",
+    "fame": 650,
+    "cegel": 78000,
+    "objective": "Bring to Duran.",
+    "quantity": "-",
+    "item_quest": "-",
+    "shortname": "knig1"
+  },
+  {
+    "item_name": "Passionate Servan’s Letter",
+    "dropby": "Passionate Servan",
+    "fame": 700,
+    "cegel": 120000,
+    "objective": "Collect Red Fire and give them to the Pet Trainer.",
+    "quantity": 1,
+    "item_quest": "Red Fire",
+    "shortname": "pass"
+  },
+  {
+    "item_name": "[A] Cankura’s Letter",
+    "dropby": "[A] Cankura",
+    "fame": 700,
+    "cegel": 120000,
+    "objective": "Collect Blue Water and give them to the Pet Trainer.",
+    "quantity": 1,
+    "item_quest": "Blue Water",
+    "shortname": "acan"
+  },
+  {
+    "item_name": "Meloa’s Letter",
+    "dropby": "Meroa",
+    "fame": 700,
+    "cegel": 120000,
+    "objective": "Collect Green Wood and give them to the Pet",
+    "quantity": 1,
+    "item_quest": "Green Wood",
+    "shortname": "melo"
+  },
+  {
+    "item_name": "Dark Owlian’s Letter",
+    "dropby": "Dark Owlian",
+    "fame": 270,
+    "cegel": 14000,
+    "objective": "Collect 10 Anthracite and give them to the Pet Trainer.",
+    "quantity": 10,
+    "item_quest": "Anthracite",
+    "shortname": "dark2"
+  },
+  {
+    "item_name": "Rayshark the 3rd’s Letter",
+    "dropby": "Rayshark the 3rd",
+    "fame": 280,
+    "cegel": 24150,
+    "objective": "Collect 15 Ammonite and give them to the Pet Trainer.",
+    "quantity": 15,
+    "item_quest": "Ammonite",
+    "shortname": "rays"
+  },
+  {
+    "item_name": "TNT Skullo’s Letter",
+    "dropby": "TNT Skullo",
+    "fame": 290,
+    "cegel": 54600,
+    "objective": "Collect 30 Wolf Skin and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Wolf Skin",
+    "shortname": "tnts"
+  },
+  {
+    "item_name": "Gardel’s crusty letter",
+    "dropby": "Crack Crab (Boss)",
+    "fame": 310,
+    "cegel": 44800,
+    "objective": "Collect 20 Crab Leg and give them to Maid at Land’s End (C4)",
+    "quantity": 20,
+    "item_quest": "Crab Leg",
+    "shortname": "gard1"
+  },
+  {
+    "item_name": "Theo’s Letter",
+    "dropby": "Blood Worm-O. Lizzard Man, Tarantula Queen",
+    "fame": 320,
+    "cegel": 37800,
+    "objective": "Collect 15 Chameleon Skins and give them to Theo in Lime.",
+    "quantity": 15,
+    "item_quest": "Chameleon Skins",
+    "shortname": "theo1"
+  },
+  {
+    "item_name": "Letter from the Courageous Warrior Plya",
+    "dropby": "Courageous Warrior Plya",
+    "fame": 320,
+    "cegel": 71400,
+    "objective": "Collect 30 Alloy Chain and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Alloy Chain",
+    "shortname": "lett2"
+  },
+  {
+    "item_name": "Dwarf Saint’s Letter",
+    "dropby": "Dwarf Saint",
+    "fame": 340,
+    "cegel": 58800,
+    "objective": "Collect 20 Hair Pins and give them to Pet Trainer",
+    "quantity": 20,
+    "item_quest": "Hair Pins",
+    "shortname": "dwar"
+  },
+  {
+    "item_name": "Gariel’s Letter",
+    "dropby": "Gariel",
+    "fame": 350,
+    "cegel": 94500,
+    "objective": "Collect 30 Rusty Gear and give them to Pet Trainer",
+    "quantity": 30,
+    "item_quest": "Rusty Gear",
+    "shortname": "gari"
+  },
+  {
+    "item_name": "Mariel’s Letter",
+    "dropby": "Mariel",
+    "fame": 350,
+    "cegel": 94500,
+    "objective": "Collect 30 Rusty Gear and give them to Pet Trainer",
+    "quantity": 30,
+    "item_quest": "Rusty Gear",
+    "shortname": "mari"
+  },
+  {
+    "item_name": "Letter from Elegant Snow Princess",
+    "dropby": "Elegant Snow Princess",
+    "fame": 360,
+    "cegel": 30450,
+    "objective": "Collect 30 Blue Blazes and give them to Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Blue Blazes",
+    "shortname": "lett3"
+  },
+  {
+    "item_name": "Computer Freak's Letter",
+    "dropby": "Computer Freak",
+    "fame": 200,
+    "cegel": 3000,
+    "objective": "Collect 2 Ice and give them to the Pet Trainer.",
+    "quantity": 2,
+    "item_quest": "Ice",
+    "shortname": "comp"
+  },
+  {
+    "item_name": "Cool Boy's GF's Letter",
+    "dropby": "Cool Boy (Boss)",
+    "fame": 200,
+    "cegel": 35700,
+    "objective": "Collect 30 Hot Blood and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Hot Blood",
+    "shortname": "cool1"
+  },
+  {
+    "item_name": "Gardel's Letter",
+    "dropby": "Knight of Darkness, Crack Crab",
+    "fame": 200,
+    "cegel": 8400,
+    "objective": "Collect 10 Mark of Vampire and give them to the Maid next to Gardel in Land's End.",
+    "quantity": 10,
+    "item_quest": "Mark of Vampire",
+    "shortname": "gard2"
+  },
+  {
+    "item_name": "Theo's Request",
+    "dropby": "Tarantula Queen",
+    "fame": 200,
+    "cegel": 22050,
+    "objective": "Collect 30 Ceramic and give them to Theo in Lime.",
+    "quantity": 30,
+    "item_quest": "Ceramic",
+    "shortname": "theo2"
+  },
+  {
+    "item_name": "High Nixie's Letter",
+    "dropby": "High Nixie",
+    "fame": 210,
+    "cegel": 25200,
+    "objective": "Collect 30 Shell of Ostrich Egg and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Shell of Ostrich Egg",
+    "shortname": "high"
+  },
+  {
+    "item_name": "Mr. Catfish's Letter",
+    "dropby": "Mr. Catfish",
+    "fame": 210,
+    "cegel": 25200,
+    "objective": "Collect 20 Sunflower Seed and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Sunflower Seed",
+    "shortname": "mrca"
+  },
+  {
+    "item_name": "Gun's Suggestion",
+    "dropby": "Gun",
+    "fame": 220,
+    "cegel": 23100,
+    "objective": "Collect 15 Light Panel and give them to the Pet Trainer.",
+    "quantity": 15,
+    "item_quest": "Light Panel",
+    "shortname": "guns"
+  },
+  {
+    "item_name": "Incubus' Letter",
+    "dropby": "Incubus (Boss)",
+    "fame": 230,
+    "cegel": 37800,
+    "objective": "Collect 30 Sunflower Seed and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Sunflower Seed",
+    "shortname": "incu"
+  },
+  {
+    "item_name": "Snow Princess' Letter",
+    "dropby": "Snow Princess",
+    "fame": 250,
+    "cegel": 33600,
+    "objective": "Collect 30 Boiling Blood and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Boiling Blood",
+    "shortname": "snow"
+  },
+  {
+    "item_name": "Dullahan's Letter",
+    "dropby": "Dullahan",
+    "fame": 260,
+    "cegel": 26600,
+    "objective": "Collect 20 Soul of Snow Princess and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Soul of Snow Princess",
+    "shortname": "dull"
+  },
+  {
+    "item_name": "Tree Golem's Letter",
+    "dropby": "Steel Golem",
+    "fame": 120,
+    "cegel": 21000,
+    "objective": "Collect 30 Iron Plate and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Iron Plate",
+    "shortname": "tree"
+  },
+  {
+    "item_name": "Albereo's Letter",
+    "dropby": "Ghost Mage, Ghost Knight",
+    "fame": 130,
+    "cegel": 1540,
+    "objective": "Collect 10 Mark of Vinagh and give them to Albereo in Zaid.",
+    "quantity": 10,
+    "item_quest": "Mark of Vinagh",
+    "shortname": "albe1"
+  },
+  {
+    "item_name": "Albereo's Letter",
+    "dropby": "Ghost Knight, Ghost Mage",
+    "fame": 140,
+    "cegel": 12600,
+    "objective": "Collect 10 Soul of Holy Knight and give them to Albereo in Zaid.",
+    "quantity": 10,
+    "item_quest": "Soul of Holy Knight",
+    "shortname": "albe2"
+  },
+  {
+    "item_name": "Forest Ogre's Letter",
+    "dropby": "Forest Ogre",
+    "fame": 140,
+    "cegel": 16100,
+    "objective": "Collect 20 Cactus Flower and give them to Pet Trainer",
+    "quantity": 20,
+    "item_quest": "Cactus Flower",
+    "shortname": "fore"
+  },
+  {
+    "item_name": "Albereo's Letter",
+    "dropby": "Chainsaw Zombie",
+    "fame": 140,
+    "cegel": 12600,
+    "objective": "Collect 10 Soul of Holy Knights and give them to Albereo in Zaid.",
+    "quantity": 10,
+    "item_quest": "Soul of Holy Knights",
+    "shortname": "albe3"
+  },
+  {
+    "item_name": "Cool Guy's Love Letter",
+    "dropby": "Cool Guy",
+    "fame": 170,
+    "cegel": 2380,
+    "objective": "Collect 2 Dullahan's Sign and give them to the Pet Trainer.",
+    "quantity": 2,
+    "item_quest": "Dullahan's Sign",
+    "shortname": "cool2"
+  },
+  {
+    "item_name": "Anti Smoking Brigade",
+    "dropby": "Sandy Windy",
+    "fame": 170,
+    "cegel": 8500,
+    "objective": "Collect 10 Spirit of Cat and give them to the Pet Trainer.",
+    "quantity": 10,
+    "item_quest": "Spirit of Cat",
+    "shortname": "anti"
+  },
+  {
+    "item_name": "Knight of Darkness Letter",
+    "dropby": "Knight of Darkness (Boss)",
+    "fame": 170,
+    "cegel": 11200,
+    "objective": "Collect 10 Special Metal and give them to Blacksmith Theo in Lime",
+    "quantity": 10,
+    "item_quest": "Special Metal",
+    "shortname": "knig2"
+  },
+  {
+    "item_name": "Super Steel Golem Letter",
+    "dropby": "Super Steel Golem",
+    "fame": 170,
+    "cegel": 11900,
+    "objective": "Collect 10 Soul of Swordsman and give them to the Pet Trainer.",
+    "quantity": 10,
+    "item_quest": "Soul of Swordsman",
+    "shortname": "supe"
+  },
+  {
+    "item_name": "Abyss' Letter",
+    "dropby": "Abyss",
+    "fame": 180,
+    "cegel": 14175,
+    "objective": "Collect 15 Bone and give them to the Pet Trainer",
+    "quantity": 15,
+    "item_quest": "Bone",
+    "shortname": "abys"
+  },
+  {
+    "item_name": "Meow-gician's Letter",
+    "dropby": "Meow-gician",
+    "fame": 180,
+    "cegel": 34650,
+    "objective": "Collect 30 Fairy’s Seduction and give them to the Pet Trainer.",
+    "quantity": 30,
+    "item_quest": "Fairy’s Seduction",
+    "shortname": "meow"
+  }
+]
