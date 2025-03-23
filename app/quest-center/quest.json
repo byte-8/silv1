@@ -1,0 +1,401 @@
+[
+  {
+    "item_name": "Devil's Nail",
+    "quantity": 30,
+    "fame": 350,
+    "cegel": 126000,
+    "shortname": "devi"
+  },
+  {
+    "item_name": "Imported Cigar",
+    "quantity": 30,
+    "fame": 400,
+    "cegel": 90000,
+    "shortname": "impo"
+  },
+  {
+    "item_name": "Pocket Watch",
+    "quantity": 30,
+    "fame": 400,
+    "cegel": 111000,
+    "shortname": "pock"
+  },
+  {
+    "item_name": "Well-grilled charcoal",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 135000,
+    "shortname": "well"
+  },
+  {
+    "item_name": "Hair pin",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 20000,
+    "shortname": "hair"
+  },
+  {
+    "item_name": "Catfish Dentures",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 20000,
+    "shortname": "catf"
+  },
+  {
+    "item_name": "Small-sized Engine",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 20000,
+    "shortname": "smal"
+  },
+  {
+    "item_name": "Steel Plate",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 20000,
+    "shortname": "stee"
+  },
+  {
+    "item_name": "Autumnal Tint Vine",
+    "quantity": 30,
+    "fame": 450,
+    "cegel": 20000,
+    "shortname": "autu"
+  },
+  {
+    "item_name": "Ectoplasm",
+    "quantity": 30,
+    "fame": 380,
+    "cegel": 67500,
+    "shortname": "ecto"
+  },
+  {
+    "item_name": "Pharaoh's Curse",
+    "quantity": 10,
+    "fame": 390,
+    "cegel": 30000,
+    "shortname": "phar"
+  },
+  {
+    "item_name": "Jason's Heart",
+    "quantity": 10,
+    "fame": 400,
+    "cegel": 33000,
+    "shortname": "jaso"
+  },
+  {
+    "item_name": "Dullahan's Tear",
+    "quantity": 5,
+    "fame": 300,
+    "cegel": 7500,
+    "shortname": "dull"
+  },
+  {
+    "item_name": "Poisonous Claws",
+    "quantity": 30,
+    "fame": 310,
+    "cegel": 22500,
+    "shortname": "pois"
+  },
+  {
+    "item_name": "Bundle of Dreams",
+    "quantity": 30,
+    "fame": 320,
+    "cegel": 42000,
+    "shortname": "bund"
+  },
+  {
+    "item_name": "Snow Crystal",
+    "quantity": 20,
+    "fame": 330,
+    "cegel": 18000,
+    "shortname": "snow"
+  },
+  {
+    "item_name": "Platinum Antennae",
+    "quantity": 10,
+    "fame": 340,
+    "cegel": 16500,
+    "shortname": "plat"
+  },
+  {
+    "item_name": "Golden Fur",
+    "quantity": 20,
+    "fame": 350,
+    "cegel": 36000,
+    "shortname": "gold"
+  },
+  {
+    "item_name": "Wolf Skin",
+    "quantity": 30,
+    "fame": 360,
+    "cegel": 58500,
+    "shortname": "wolf"
+  },
+  {
+    "item_name": "Fuse",
+    "quantity": 10,
+    "fame": 370,
+    "cegel": 25500,
+    "shortname": "fuse"
+  },
+  {
+    "item_name": "Mark of Sakiel",
+    "quantity": 15,
+    "fame": 220,
+    "cegel": 14000,
+    "shortname": "mark"
+  },
+  {
+    "item_name": "Bone",
+    "quantity": 30,
+    "fame": 240,
+    "cegel": 30500,
+    "shortname": "bone"
+  },
+  {
+    "item_name": "Blue Blaze",
+    "quantity": 20,
+    "fame": 250,
+    "cegel": 30000,
+    "shortname": "blue"
+  },
+  {
+    "item_name": "Crystal of Sakiel",
+    "quantity": 20,
+    "fame": 260,
+    "cegel": 19500,
+    "shortname": "crys"
+  },
+  {
+    "item_name": "Ice Crystal",
+    "quantity": 2,
+    "fame": 270,
+    "cegel": 5500,
+    "shortname": "ice1"
+  },
+  {
+    "item_name": "Moonstone",
+    "quantity": 30,
+    "fame": 280,
+    "cegel": 40000,
+    "shortname": "moon"
+  },
+  {
+    "item_name": "Starfish",
+    "quantity": 15,
+    "fame": 290,
+    "cegel": 21000,
+    "shortname": "star"
+  },
+  {
+    "item_name": "Titanium",
+    "quantity": 30,
+    "fame": 150,
+    "cegel": 22500,
+    "shortname": "tita"
+  },
+  {
+    "item_name": "Mithril",
+    "quantity": 30,
+    "fame": 160,
+    "cegel": 22000,
+    "shortname": "mith"
+  },
+  {
+    "item_name": "Sharp Tooth",
+    "quantity": 20,
+    "fame": 170,
+    "cegel": 16500,
+    "shortname": "shar"
+  },
+  {
+    "item_name": "Motherly Love",
+    "quantity": 20,
+    "fame": 140,
+    "cegel": 10000,
+    "shortname": "moth"
+  },
+  {
+    "item_name": "Eyeball",
+    "quantity": 5,
+    "fame": 200,
+    "cegel": 5000,
+    "shortname": "eyeb"
+  },
+  {
+    "item_name": "4 Leaf Clover",
+    "quantity": 2,
+    "fame": 200,
+    "cegel": 5000,
+    "shortname": "4lea"
+  },
+  {
+    "item_name": "Iron Plate",
+    "quantity": 30,
+    "fame": 190,
+    "cegel": 22500,
+    "shortname": "iron"
+  },
+  {
+    "item_name": "Piece of Glass",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 4250,
+    "shortname": "piec"
+  },
+  {
+    "item_name": "Vine",
+    "quantity": 30,
+    "fame": 100,
+    "cegel": 4250,
+    "shortname": "vine"
+  },
+  {
+    "item_name": "Spider's Poison",
+    "quantity": 20,
+    "fame": 150,
+    "cegel": 4250,
+    "shortname": "spid"
+  },
+  {
+    "item_name": "5 Color String",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 3030,
+    "shortname": "5col"
+  },
+  {
+    "item_name": "Mark of Wind",
+    "quantity": 15,
+    "fame": 100,
+    "cegel": 3620,
+    "shortname": "mark1"
+  },
+  {
+    "item_name": "Fairy's Powder",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 4250,
+    "shortname": "fair"
+  },
+  {
+    "item_name": "Man's Romance",
+    "quantity": 5,
+    "fame": 100,
+    "cegel": 3620,
+    "shortname": "man1"
+  },
+  {
+    "item_name": "Bear's Gail",
+    "quantity": 2,
+    "fame": 80,
+    "cegel": 4250,
+    "shortname": "bear"
+  },
+  {
+    "item_name": "Wit",
+    "quantity": 20,
+    "fame": 100,
+    "cegel": 3030,
+    "shortname": "wit1"
+  },
+  {
+    "item_name": "Wooden Board",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 1970,
+    "shortname": "wood"
+  },
+  {
+    "item_name": "Magic Powder",
+    "quantity": 30,
+    "fame": 100,
+    "cegel": 3030,
+    "shortname": "mag1"
+  },
+  {
+    "item_name": "Silkworm's Thread",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 3030,
+    "shortname": "silk"
+  },
+  {
+    "item_name": "Knight's Crest",
+    "quantity": 30,
+    "fame": 100,
+    "cegel": 3620,
+    "shortname": "knig"
+  },
+  {
+    "item_name": "Vegetable Oil",
+    "quantity": 20,
+    "fame": 50,
+    "cegel": 820,
+    "shortname": "vege"
+  },
+  {
+    "item_name": "Vampire's Canine",
+    "quantity": 2,
+    "fame": 80,
+    "cegel": 1450,
+    "shortname": "vamp"
+  },
+  {
+    "item_name": "Oxygen",
+    "quantity": 10,
+    "fame": 100,
+    "cegel": 2480,
+    "shortname": "oxyg"
+  },
+  {
+    "item_name": "Hard Shell",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 1970,
+    "shortname": "hard"
+  },
+  {
+    "item_name": "Spore",
+    "quantity": 30,
+    "fame": 80,
+    "cegel": 1970,
+    "shortname": "spor"
+  },
+  {
+    "item_name": "Geranium",
+    "quantity": 30,
+    "fame": 20,
+    "cegel": 260,
+    "shortname": "gera"
+  },
+  {
+    "item_name": "Log",
+    "quantity": 30,
+    "fame": 30,
+    "cegel": 260,
+    "shortname": "log1"
+  },
+  {
+    "item_name": "Sap",
+    "quantity": 30,
+    "fame": 20,
+    "cegel": 500,
+    "shortname": "sap1"
+  },
+  {
+    "item_name": "Stem of Radish",
+    "quantity": 30,
+    "fame": 30,
+    "cegel": 270,
+    "shortname": "stem"
+  },
+  {
+    "item_name": "Rabbit Fur",
+    "quantity": 30,
+    "fame": 20,
+    "cegel": 820,
+    "shortname": "rabb"
+  }
+]
