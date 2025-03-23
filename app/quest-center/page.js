@@ -11,7 +11,7 @@ export default function QuestCenter({}) {
 
   const handleSelect = (item) => {
     setSelectedItem(item);
-    console.log(item);
+    // console.log(item);
   };
 
   const handleCurrentFameChange = (e) => {
