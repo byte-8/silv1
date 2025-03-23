@@ -42,7 +42,7 @@ export default function QuestCenter({}) {
     const totIt = totL * selectedItem.quantity;
     const iName = selectedItem.item_quest;
 
-    // const totQ = Math.ceil(fneed / selectedItem.fame);
+    //
     const totRes = `${totIt} ${iName}`;
     //
     const sS = 300;

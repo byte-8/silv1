@@ -11,16 +11,16 @@ export default function Dropdown({ items, onSelect, placeholder }) {
   );
 
   const handleSelect = (item) => {
-    setSelectedItem(item); // Simpan item yang dipilih
-    setSearchTerm(""); // Reset searchTerm
-    setIsOpen(false); // Tutup dropdown
-    onSelect(item); // Kirim item yang dipilih ke parent component
+    setSelectedItem(item); //
+    setSearchTerm(""); //
+    setIsOpen(false); //
+    onSelect(item); //
   };
 
   const handleInputChange = (e) => {
-    setSearchTerm(e.target.value); // Perbarui searchTerm
+    setSearchTerm(e.target.value); //
     if (selectedItem) {
-      setSelectedItem(null); // Reset selectedItem jika ada
+      setSelectedItem(null); //
     }
   };
 
