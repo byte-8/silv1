@@ -111,6 +111,7 @@ export default function QuestCenter({}) {
           <p>Jumlah cegel yang didapat: {result.totCeg}</p>
         </div>
       )}
+      <p className="text-red-600 pt-5">*Limit quest setiap seal ps berbeda .</p>
     </div>
   );
 }

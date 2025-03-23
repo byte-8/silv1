@@ -498,5 +498,15 @@
     "quantity": 30,
     "item_quest": "Fairy’s Seduction",
     "shortname": "meow"
+  },
+  {
+    "item_name": "Twin Blade Gork's Letter",
+    "dropby": "Twin Blade Gork",
+    "fame": 650,
+    "cegel": 100800,
+    "objective": "Collect 20 Brilliant Blue Eyes and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Brilliant Blue Eyes",
+    "shortname": "twin"
   }
 ]
