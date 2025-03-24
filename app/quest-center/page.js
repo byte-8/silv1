@@ -55,7 +55,7 @@ export default function QuestCenter({}) {
   };
 
   return (
-    <div className="h-auto w-3/4 shadow-lg p-10 mx-auto rounded">
+    <div className="h-auto w-2/3 shadow-sm p-10 mx-auto rounded mt-10">
       <h2>Pilih Quest</h2>
       <DropDown
         items={quest}
@@ -97,8 +97,10 @@ export default function QuestCenter({}) {
       )}
 
       {result && (
-        <div className="mt-4 p-4 bg-gray-100 rounded-md">
-          <h3 className="text-lg font-semibold">Hasil Perhitungan:</h3>
+        <div className="mt-4 p-4 bg-gray-100 rounded-md text-sm md:text-lg">
+          <h3 className="text-sm md:text-lg font-semibold">
+            Hasil Perhitungan:
+          </h3>
           <p>
             Banyak item yang dibutuhkan: {result.totIt}
             {result.totS > 0
@@ -111,7 +113,9 @@ export default function QuestCenter({}) {
           <p>Jumlah cegel yang didapat: {result.totCeg}</p>
         </div>
       )}
-      <p className="text-red-600 pt-5">*Limit quest setiap seal ps berbeda .</p>
+      <p className="text-red-600 pt-5 text-sm">
+        *Limit quest setiap seal ps berbeda .
+      </p>
     </div>
   );
 }

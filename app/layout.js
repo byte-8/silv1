@@ -4,9 +4,9 @@ import Sidebar from "./components/sideBar";
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="flex bg-white ">
+      <body className="md:flex md:flex-row">
         <Sidebar />
-        <div className="flex-1 p-8 bg-white">{children}</div>
+        <div className="md:flex-1">{children}</div>
       </body>
     </html>
   );
