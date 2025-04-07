@@ -78,10 +78,10 @@ export default function QuestCenter({}) {
 
           {/* ========== */}
           <div className="mb-4">
-            <h2>Fame Sekarang</h2>
+            <h2>Fame Target</h2>
             <input
               type="number"
-              placeholder="Masukkan Fame Sekarang"
+              placeholder="Masukkan Fame Target"
               value={targetFame}
               onChange={handleTargetFameChange}
               className="w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -114,7 +114,7 @@ export default function QuestCenter({}) {
         </div>
       )}
       <p className="text-red-600 pt-5 text-sm">
-        *Limit quest setiap seal ps berbeda .
+        *Limit quest & reward setiap seal berbeda .
       </p>
     </div>
   );
