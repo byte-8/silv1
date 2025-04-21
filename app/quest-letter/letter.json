@@ -508,5 +508,15 @@
     "quantity": 20,
     "item_quest": "Brilliant Blue Eyes",
     "shortname": "twin"
+  },
+  {
+    "item_name": "AquaKing Yamok's Letter",
+    "dropby": "AquaKing Yamok",
+    "fame": 570,
+    "cegel": 64400,
+    "objective": "Collect 20 Chain of Darkness and give them to the Pet Trainer.",
+    "quantity": 20,
+    "item_quest": "Chain of Darkness",
+    "shortname": "aqking"
   }
 ]
