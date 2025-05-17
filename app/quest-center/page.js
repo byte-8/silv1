@@ -41,7 +41,7 @@ export default function QuestCenter({}) {
     const totCeg = totQ * selectedItem.cegel;
     const totIt = totQ * selectedItem.quantity;
     //
-    const sS = 300;
+    const sS = 600;
     const totS = Math.floor(totIt / sS);
     const sisa = totIt % sS;
 
@@ -104,7 +104,7 @@ export default function QuestCenter({}) {
           <p>
             Banyak item yang dibutuhkan: {result.totIt}
             {result.totS > 0
-              ? ` (${result.totS} stak${
+              ? ` (${result.totS} stack${
                   result.sisa > 0 ? `, ${result.sisa} pcs` : ""
                 })`
               : ""}
@@ -116,6 +116,7 @@ export default function QuestCenter({}) {
       <p className="text-red-600 pt-5 text-sm">
         *Limit quest & reward setiap seal berbeda .
       </p>
+      <p className="text-red-600 pt-1 text-sm">**1 stack = 600pcs .</p>
     </div>
   );
 }

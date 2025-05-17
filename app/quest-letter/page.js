@@ -45,7 +45,7 @@ export default function QuestCenter({}) {
     //
     const totRes = `${totIt} ${iName}`;
     //
-    const sS = 300;
+    const sS = 600;
     const totS = Math.floor(totIt / sS);
     const sisa = totIt % sS;
 
@@ -65,7 +65,7 @@ export default function QuestCenter({}) {
       <DropDown
         items={quest}
         onSelect={handleSelect}
-        placeholder="Search items ..."
+        placeholder="Search letter ..."
       />
 
       {selectedItem && (
