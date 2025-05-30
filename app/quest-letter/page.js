@@ -106,6 +106,7 @@ export default function QuestCenter({}) {
           <h3 className="text-sm md:text-lg font-semibold">
             Hasil Perhitungan:
           </h3>
+          <p>Letter Dibutuhkan: {result.totL}</p>
           <p>
             Banyak item yang dibutuhkan: {result.totRes}
             {result.totS > 0
