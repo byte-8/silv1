@@ -58,6 +58,15 @@ export default function Sidebar() {
                 Quest Letter
               </Link>
             </li>
+            <li>
+              <Link
+                href="../quest-alcanez"
+                className="block hover:bg-gray-500 p-2 hover:text-white text-sm"
+                onClick={() => setIsOpen(false)} // Tutup dropdown saat diklik
+              >
+                Quest Alcanez
+              </Link>
+            </li>
           </ul>
         </div>
       )}
@@ -78,6 +87,13 @@ export default function Sidebar() {
             onClick={closeSidebar}
           >
             Quest Letter
+          </Link>
+          <Link
+            href="../quest-alcanez"
+            className="block hover:bg-gray-500 p-2 rounded hover:text-white"
+            onClick={closeSidebar}
+          >
+            Quest Alcanez
           </Link>
         </ul>
       </div>

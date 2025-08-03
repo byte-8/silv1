@@ -3,7 +3,7 @@ import { useState } from "react";
 import DropDown from "../components/dropDown";
 import quest from "./letter.json";
 
-export default function QuestCenter({}) {
+export default function QuestLetter({}) {
   const [selectedItem, setSelectedItem] = useState(null);
   const [currentFame, setCurrentFame] = useState(0);
   const [targetFame, setTargetFame] = useState(0);

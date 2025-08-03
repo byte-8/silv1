@@ -1,9 +1,10 @@
 "use client";
-import { useState } from "react";
-import DropDown from "../components/dropDown";
-import quest from "./quest.json";
 
-export default function QuestCenter({}) {
+import { useState } from "react";
+import Dropdown from "../components/dropDown";
+import alca from "./alca.json";
+
+export default function QuestAlca({}) {
   const [selectedItem, setSelectedItem] = useState(null);
   const [currentFame, setCurrentFame] = useState(0);
   const [targetFame, setTargetFame] = useState(0);
@@ -11,6 +12,34 @@ export default function QuestCenter({}) {
 
   const handleSelect = (item) => {
     setSelectedItem(item);
+  };
+
+  const handleSubmit = () => {
+    if (!selectedItem) {
+      alert("Pilih Item Quest Terlebih Dahulu!");
+      return;
+    }
+
+    const fneed = targetFame - currentFame;
+    if (fneed <= 0) {
+      alert("target fame harus lebih besar");
+      return;
+    }
+
+    //math res
+    const totQ = Math.ceil(fneed / selectedItem.fame);
+    const totF = totQ * selectedItem.fame;
+    const totItem = totQ * selectedItem.quantity;
+    const sS = 600;
+    const totS = Math.floor(totItem / sS);
+    const sisa = totItem % sS;
+
+    setResult({
+      totF,
+      totItem,
+      totS,
+      sisa,
+    });
   };
 
   const handleCurrentFameChange = (e) => {
@@ -23,43 +52,13 @@ export default function QuestCenter({}) {
     setTargetFame(val >= 0 ? val : 0);
   };
 
-  const handleSub = () => {
-    if (!selectedItem) {
-      alert("Pilih Item Quest terlebih dahulu!");
-      return;
-    }
-
-    //math
-    const fneed = targetFame - currentFame;
-    if (fneed <= 0) {
-      alert("Target fame harus lebih besar dari fame sekarang!");
-      return;
-    }
-    const totQ = Math.ceil(fneed / selectedItem.fame);
-    const totFd = totQ * selectedItem.fame;
-    const totCeg = totQ * selectedItem.cegel;
-    const totIt = totQ * selectedItem.quantity;
-    //
-    const sS = 600;
-    const totS = Math.floor(totIt / sS);
-    const sisa = totIt % sS;
-
-    setResult({
-      totFd,
-      totCeg,
-      totIt,
-      totS,
-      sisa,
-    });
-  };
-
   return (
     <div className="h-auto w-2/3 shadow-sm p-10 mx-auto rounded mt-10">
-      <h2>Pilih Quest</h2>
-      <DropDown
-        items={quest}
+      <h2>Alcanez quest manager</h2>
+      <Dropdown
+        items={alca}
         onSelect={handleSelect}
-        placeholder="Search items ..."
+        placeholder="Pilih Item Quest ..."
       />
 
       {selectedItem && (
@@ -87,7 +86,7 @@ export default function QuestCenter({}) {
             />
           </div>
           <button
-            onClick={handleSub}
+            onClick={handleSubmit}
             className="w-full bg-blue-500 text-white p-2 rounded-md hover:bg-blue-600 cursor-pointer"
           >
             Submit
@@ -101,21 +100,16 @@ export default function QuestCenter({}) {
             Hasil Perhitungan:
           </h3>
           <p>
-            Banyak item yang dibutuhkan: {result.totIt}
+            Banyak item yang dibutuhkan: {result.totItem}
             {result.totS > 0
               ? ` (${result.totS} stack${
                   result.sisa > 0 ? `, ${result.sisa} pcs` : ""
                 })`
               : ""}
           </p>
-          <p>Jumlah fame yang didapat: {result.totFd}</p>
-          <p>Jumlah cegel yang didapat: {result.totCeg}</p>
+          <p>Jumlah fame yang didapat: {result.totF}</p>
         </div>
       )}
-      <p className="text-red-600 pt-5 text-sm">
-        *Limit quest & reward setiap seal berbeda .
-      </p>
-      <p className="text-red-600 pt-1 text-sm">**1 stack = 600pcs .</p>
     </div>
   );
 }

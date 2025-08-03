@@ -1,0 +1,50 @@
+[
+  {
+    "item_name": "Alcanez's Hope",
+    "quantity": 5,
+    "fame": 580,
+    "shortname": "Hope"
+  },
+  {
+    "item_name": "Alcanez's Past",
+    "quantity": 5,
+    "fame": 580,
+    "shortname": "Past"
+  },
+  {
+    "item_name": "Alcanez's Future",
+    "quantity": 5,
+    "fame": 580,
+    "shortname": "Future"
+  },
+  {
+    "item_name": "Alcanez's Life",
+    "quantity": 5,
+    "fame": 460,
+    "shortname": "Life"
+  },
+  {
+    "item_name": "Alcanez's Tears",
+    "quantity": 5,
+    "fame": 350,
+    "shortname": "Tears"
+  },
+  {
+    "item_name": "Alcanez's Lightning Rod",
+    "quantity": 5,
+    "fame": 350,
+    "shortname": "LightningRod"
+  },
+  {
+    "item_name": "Alcanez's Energy",
+    "quantity": 5,
+    "fame": 350,
+    "shortname": "Energy"
+  },
+  {
+    "item_name": "Alcanez's Tears",
+    "quantity": 5,
+    "fame": 350,
+    "shortname": "Tears2"
+  }
+]
